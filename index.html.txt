@@ -64,9 +64,7 @@
         <p>To jest przykładowa strona główna.</p>
     </div>
     <footer>
-    <p>&copy; 2025 Moja Strona</p>
+    <p>&copy; 2023 Moja Strona</p>
     </footer>
 </body>
 </html>
-
-
