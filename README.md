@@ -1,2 +1,2 @@
-# Strona-G-wna
+# Strona
 laboratoria-01
